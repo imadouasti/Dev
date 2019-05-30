@@ -1,0 +1,23 @@
+.parallax-img1{
+    background: url(../img/suiteClub/2m-min.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    height: 240px
+}
+
+.parallax-img2{
+    background: url(../img/suiteGarden/4m-min.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    height: 240px
+}
+
+.parallax-img3{
+    background: url(../img/suiteSolarium/3m-min.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    height: 240px
+}
