@@ -1,11 +1,6 @@
-var c = 0;
-
 var calcul = function (str) {
-    str.map(function (v) {
-        if (v.length > 50)
-            c++
-    }, str);
-    return c
+    var a = str.filter((e)=> e.length>50).length;
+    return a
 };
 
 module.exports = {calcul};
